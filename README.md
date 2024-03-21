@@ -21,12 +21,3 @@ O objetivo deste projeto é fornecer insights e análises sobre os dados de saú
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request ou relatar problemas encontrados.
-
-## Autores
-
-- [Seu Nome](https://github.com/seu-usuario)
-- [Outro Contribuidor](https://github.com/outro-contribuidor)
-
-## Licença
-
-Este projeto é licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
